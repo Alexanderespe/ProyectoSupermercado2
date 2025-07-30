@@ -1,0 +1,12 @@
+ec\edu\espe\proyectosupermercado\modelo\Producto.class
+ec\edu\espe\proyectosupermercado\interfacesgrafica\ConsolaUI.class
+ec\edu\espe\proyectosupermercado\modelo\IEmpleado.class
+ec\edu\espe\proyectosupermercado\modelo\ICliente.class
+ec\edu\espe\proyectosupermercado\modelo\IProducto.class
+ec\edu\espe\proyectosupermercado\modelo\Factura.class
+ec\edu\espe\proyectosupermercado\modelo\Categoria.class
+ec\edu\espe\proyectosupermercado\modelo\IFactura.class
+ec\edu\espe\proyectosupermercado\ProyectoSupermercado.class
+ec\edu\espe\proyectosupermercado\modelo\ICategoria.class
+ec\edu\espe\proyectosupermercado\modelo\Cliente.class
+ec\edu\espe\proyectosupermercado\servicio\Supermercado.class
